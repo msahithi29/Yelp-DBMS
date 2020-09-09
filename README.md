@@ -17,7 +17,7 @@ The front end application is built which is used for querying the data from the 
   java populate yelp_business.json yelp_review.json yelp_checkin.json yelp_user.json </br>
   java hw3 </br>
   
-<b> Note: </b> Populate should be run only for the first time. </br>
+<b> Note: </b> Populate should be executed only once which is the first time. </br>
 
 <b> References: </b> </br>
 1. Yelp Dataset Challenge, http://www.yelp.com/dataset_challenge/ </br>
